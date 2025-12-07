@@ -5,6 +5,8 @@ An interactive Physics-Informed Neural Network (PINN) simulation for laminar flo
 ![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+[**🚀 Try the Live Demo Here**](https://naca-pinn-interactive-brcjxevvb4ayctqvh3lg3y.streamlit.app/)
+
 ## Overview
 
 This application solves the Navier-Stokes equations for 2D flow over a NACA 4-digit airfoil (default: NACA 6412). It allows users to:
